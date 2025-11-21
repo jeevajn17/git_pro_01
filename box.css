@@ -1,0 +1,43 @@
+body{
+    background-color: aquamarine;
+    border-style: solid;
+    border-color: red;
+}
+h1{
+    color: rgb(38, 0, 255);
+    margin: 20px;
+    border-style: solid;
+    border-color: red;
+    padding: 10px; ;
+}
+.para{
+    color: rgb(38, 0, 255);
+    margin: 20px;
+    border-style: solid ;
+    border-color: red;
+    padding: 5px;
+}
+.list{
+   border-style: solid;
+   border-color: red;
+    margin: 20px;
+    padding: 20px;
+}
+ul li{
+    border-style: solid ;
+    border-color: red;
+    
+}
+.text{
+margin: 20px;
+}
+#hello{
+    border-style: solid;
+    border-color: red;
+    padding: 5px;
+}
+#url{
+    border-style: solid;
+    border-color: red;
+    padding: 10px;
+}
